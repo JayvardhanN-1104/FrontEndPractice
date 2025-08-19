@@ -1,4 +1,5 @@
 # FrontEndPractice
 My front end Project Practice 
 <br>
-Author - Jayvardhan Nawghare
+Author - Jayvardhan Nawghare (TDIT Solution)
+
