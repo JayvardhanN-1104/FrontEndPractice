@@ -1,2 +1,4 @@
 # FrontEndPractice
-My front end Project Practice &lt;br> Author - Jayvardhan Nawghare
+My front end Project Practice 
+<br>
+Author - Jayvardhan Nawghare
